@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'El Messiri';
+	src: url(../../assets/fonts/el-messiri-v8-arabic-regular.eot) format('embedded-opentype'),
+	url(../../assets/fonts/el-messiri-v8-arabic-regular.eot) format('embedded-opentype'),
+	url(../../assets/fonts/el-messiri-v8-arabic-regular.woff2) format('woff2'),
+	url(../../assets/fonts/el-messiri-v8-arabic-regular.woff) format('woff'),
+	url(../../assets/fonts/el-messiri-v8-arabic-regular.ttf) format('truetype'),
+	url(../../assets/fonts/el-messiri-v8-arabic-regular.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
